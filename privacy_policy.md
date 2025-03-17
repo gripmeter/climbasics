@@ -271,7 +271,7 @@ If you submit the request through an  authorized  agent, we may need to collect 
 
 ### Appeals
 
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at  __________. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
 ### California  "Shine The Light"  Law
 
